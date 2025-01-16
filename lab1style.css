@@ -1,0 +1,42 @@
+* {
+  font-family: Helvetica;
+}
+
+body {
+    padding-top: 56px;
+    background-color: #333;
+    color: white;
+}
+
+@media (min-width: 992px) {
+    .navbar-nav {
+        margin: 0 auto;
+    }
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+#portfolio {
+    margin: 10px auto;
+}
+.portfolio img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+footer {
+    padding: 5px 0;
+}
+footer p {
+    margin-bottom: 5px;
+}
+.footer-icons a {
+    color: white;
+    margin: 0 5px;
+    font-size: 1rem;
+}
