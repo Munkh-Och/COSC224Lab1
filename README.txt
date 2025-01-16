@@ -3,8 +3,8 @@
 |     Lab Assignment 1 - GitHub                       |
 |                                                     |                                             
 |     Group Member:                                   |
-|     1. Munkh-Och Zorigoo : 300 356 496              |
-|     2. Jake Jason Yatco  : 300 347 620              |
+|     1. Munkh-Och Zorigoo                            |
+|     2. Jake Jason Yatco                             |
 |                                                     |                                             
 |     Task:                                           |
 |      Create a web page with a header,               |
